@@ -21,7 +21,7 @@ export const en: NavbarConfig = [
     text: 'BackEnd',
     children: [
       {
-        text: 'BackEnd',
+        text: 'Golang',
         link: '/backend/go.html',
       },
       '/backend/python.md',
@@ -35,7 +35,7 @@ export const en: NavbarConfig = [
         text: 'Database System',
         children: [
           {
-            text: 'mysql',
+            text: 'Mysql',
             link: '/database/mysql.html',
           },
           '/database/oracle.md',
@@ -44,7 +44,10 @@ export const en: NavbarConfig = [
       {
         text: 'Database Software',
         children: [
-          '/database/dbms/navicat.md',
+          {
+            text: 'Navicat',
+            link: '/database/dbms/navicat.md',
+          },
         ],
       },
     ],
