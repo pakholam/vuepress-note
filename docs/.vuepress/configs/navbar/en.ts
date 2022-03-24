@@ -57,7 +57,7 @@ export const en: NavbarConfig = [
     children: [
       {
         text: 'Changelog',
-        link: 'https://github.com/pakholam/cerf-blog/blob/main/README.md'
+        link: 'https://github.com/pakholam/vuepress-note/blob/main/README.md'
       },
       {
         text: 'v1.x',

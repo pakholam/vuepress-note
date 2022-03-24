@@ -64,7 +64,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     logo: "/images/hero.png",
 
-    repo: "/pakholam/cerf-blog",
+    repo: "/pakholam/vuepress-note",
 
     docsDir: "docs",
 

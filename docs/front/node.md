@@ -2,7 +2,7 @@
 
 ## (1) 下载安装Node
 
-<https://nodejs.org/zh-cn/download/>
+Node中文官网下载：<https://nodejs.org/zh-cn/download/>
 
 <img src="/install/node01.png">
 

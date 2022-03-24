@@ -1,9 +1,10 @@
-# Database
+# Mysql
 ## MySQL 8.0 安装 
 
 ### (1) 下载Mysql安装包
 
-Mysql下载安装包 https://dev.mysql.com/downloads/mysql/
+Mysql下载安装包 
+<a href="https://dev.mysql.com/downloads/mysql/" target="_blank">Mysql安装包</a>
 
 <img src="/install/mysql01.png">
 
