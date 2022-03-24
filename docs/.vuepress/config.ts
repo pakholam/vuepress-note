@@ -6,7 +6,7 @@ import { navbar, sidebar } from "./configs";
 const isProd = process.env.NODE_ENV === "production";
 
 export default defineUserConfig<DefaultThemeOptions>({
-  base: "/pakholam/vurepress/",
+  base: "/",
 
   head: [
     [
