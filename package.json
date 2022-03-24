@@ -2,7 +2,9 @@
   "name": "vuepress-note",
   "version": "1.0.0",
   "main": "index.ts",
-  "repository": "https://github.com/pakholam/cerf-blog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pakholam/vuepress-note.git"},
   "author": "pakholam <cerf_baleine@foxmail.com>",
   "license": "MIT",
   "devDependencies": {
