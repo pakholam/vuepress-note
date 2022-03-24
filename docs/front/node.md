@@ -4,7 +4,8 @@
 
 Node中文官网下载：<https://nodejs.org/zh-cn/download/>
 
-<img src="/install/node01.png">
+![](../.vuepress/public/install/node01.png)
+
 
 一直next。
 
@@ -46,4 +47,4 @@ Node中文官网下载：<https://nodejs.org/zh-cn/download/>
 
 `npm install -g express`
 
-<img src="/install/node02.png">
+![](../.vuepress/public/install/node02.png)
