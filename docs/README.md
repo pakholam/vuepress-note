@@ -68,4 +68,3 @@ npx vuepress build
 
   </CodeGroupItem>
 </CodeGroup>
-```

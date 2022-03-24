@@ -2,54 +2,67 @@
 ## 安装Navicat
 #### (1) 打开安装包
 点击下一步
-<img src="/install/navicat01.png">
+
+![](../../.vuepress/public/install/navicat01.png)
 
 #### (2) 同意
 点击下一步
-<img src="/install/navicat02.png">
+
+![](../../.vuepress/public/install/navicat02.png)
 
 #### (3) 选择安装路径
 尽量不要装在C盘，点击下一步
-<img src="/install/navicat03.png">
+
+![](../../.vuepress/public/install/navicat03.png)
 
 #### (4) 下一步
 等待安装完成
-<img src="/install/navicat04.png">
+
+![](../../.vuepress/public/install/navicat04.png)
 
 ## 破解Navicat
 #### (5) 破解(全过程断网进行)
 打开破解工具(Navicat Keygen Patch),如图步骤顺序
-<img src="/install/navicat05.png">
+
+![](../../.vuepress/public/install/navicat05.png)
 
 #### (6) 添加路径
 出现下列界面说明路径添加成功
-<img src="/install/navicat06.png">
+
+![](../../.vuepress/public/install/navicat06.png)
 
 #### (7) 生成及复制注册码
-<img src="/install/navicat07.png">
+
+![](../../.vuepress/public/install/navicat07.png)
 
 #### (8) Navicat注册
 打开Navicat进行注册，首次打开Navicat会弹出下述界面，选择注册
-<img src="/install/navicat08.png">
+
+![](../../.vuepress/public/install/navicat08.png)
 
 #### (9) 复制注册码激活
 将复制的注册码填入，点击激活
-<img src="/install/navicat09.png">
+
+![](../../.vuepress/public/install/navicat09.png)
 
 #### (10) 选择手动激活
-<img src="/install/navicat10.png">
+
+![](../../.vuepress/public/install/navicat10.png)
 
 #### (11) 复制请求码
 会产生请求码，将请起码复制到激活软件中，生成激活码
-<img src="/install/navicat11.png">
+
+![](../../.vuepress/public/install/navicat11.png)
 
 #### (12) 生成激活码
 点击generate生成激活码，复制激活码，点击激活
-<img src="/install/navicat12.png">
+
+![](../../.vuepress/public/install/navicat12.png)
 
 #### (13) 激活
 点击确定---永久激活
-<img src="/install/navicat13.png">
+
+![](../../.vuepress/public/install/navicat13.png)
 
 #### 备注：
 

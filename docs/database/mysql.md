@@ -6,15 +6,18 @@
 Mysql下载安装包 
 <a href="https://dev.mysql.com/downloads/mysql/" target="_blank">Mysql安装包</a>
 
-<img src="/install/mysql01.png">
+![](../.vuepress/public/install/mysql01.png)
 
-<img src="/install/mysql02.png">
+
+![](../.vuepress/public/install/mysql02.png)
+
 
 ### (2) Mysql配置
 
 解压zip包到安装目录（我的解压在了 ）<D:\mysql\mysql-8.0.26-winx64>
 
-<img src="/install/mysql03.png">
+![](../.vuepress/public/install/mysql03.png)
+
 
 打开 my.ini,写入如下配置
 
