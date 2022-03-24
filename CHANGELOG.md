@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [v1.0.1](https://github.com/pakholam/vuepress-note/compare/v1.0.0...v1.0.1)(2022-03-24)
+
+### Bug Fixes
+* **package.json:** Fixed a bug(version can't update)([67fc7c4](67fc7c45fff2ad125b1af0dec0985b45da88fea1))
+
+### Feature
+
+* **Change Log:** Record version releases([ccc97a3](ccc97a3ce79e16b16515cd60bf1ac7c9b25385cc))
+
 # [v1.0.0](https://github.com/pakholam/vuepress-note/compare/vuepress...v1.0.0) (2022-03-24)
 
 ### Bug Fixes
