@@ -183,6 +183,20 @@ export default defineUserConfig<DefaultThemeOptions>({
     //   },
     // ],
     [
+      '@vuepress/plugin-search',
+      {
+        locales: {
+          '/': {
+            placeholder: 'Search',
+            hotKey: ['s', '/'],
+            maxSuggestions: 10,
+            isSearchable: (page) => page.path != '/',
+            getExtraFields: () => [],
+          },
+        },
+      },
+    ],
+    [
       '@vuepress/plugin-register-components',
       {
         componentsDir: path.resolve(__dirname, './components'),
