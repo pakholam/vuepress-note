@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Status">
-  <img src="https://img.shields.io/npm/dt/pakholam/vuepress-note?style=flat-square&color=red" alt="Downloads">
+  <img src="https://img.shields.io/github/repo-size/pakholam/vuepress-note?style=flat-square&color=red" alt="Downloads">
   <img src="https://img.shields.io/github/package-json/v/pakholam/vuepress-note?style=flat-square" alt="Version">
   <img src="https://img.shields.io/github/license/pakholam/vuepress-note?style=flat-square" alt="License">
 </p>
