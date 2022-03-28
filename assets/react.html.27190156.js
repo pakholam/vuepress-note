@@ -1,0 +1,1 @@
+const t={key:"v-31c10f59",path:"/front/react.html",title:"React",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648042039e3,contributors:[{name:"pakholam",email:"cerf_baleine@foxmail.com",commits:1}]},filePathRelative:"front/react.md"};export{t as data};

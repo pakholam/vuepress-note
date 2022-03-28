@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.36">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" type="imge/png" sizes="16x16" href="/imges/icons/favicon-16x16.png"><link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="application-name" content="Cerf-Blog"><meta name="apple-mobile-web-app-title" content="Cerf-Blog"><meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="mask-icon" href="/images/icons/safari-pineed-tab.svg" color="#3eaf7c"><meta name="msapplication-TileColor" content="#3eaf7c"><meta name="theme-color" content="#3eaf7c"><title>Cerf-Blog</title><meta name="description" content="Vuepress Blog">
+    <link rel="modulepreload" href="/vuepress-note/assets/app.530aa408.js"><link rel="modulepreload" href="/vuepress-note/assets/404.html.f166316b.js"><link rel="modulepreload" href="/vuepress-note/assets/404.html.bee13de6.js"><link rel="modulepreload" href="/vuepress-note/assets/plugin-vue_export-helper.21dcd24c.js">
+    <link rel="stylesheet" href="/vuepress-note/assets/style.111ac9cd.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a href="/vuepress-note/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/vuepress-note/assets/app.530aa408.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+const a={key:"v-7641cc00",path:"/database/oracle.html",title:"Oracle",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648042039e3,contributors:[{name:"pakholam",email:"cerf_baleine@foxmail.com",commits:1}]},filePathRelative:"database/oracle.md"};export{a as data};

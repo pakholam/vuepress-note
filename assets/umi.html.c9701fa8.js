@@ -1,0 +1,1 @@
+import{o as e,c as t,b as o,d as a}from"./app.530aa408.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"umi",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#umi","aria-hidden":"true"},"#",-1),n=a(" UMI"),d=[_,n];function i(h,m){return e(),t("h1",c,d)}var l=r(s,[["render",i]]);export{l as default};

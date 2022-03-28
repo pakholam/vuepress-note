@@ -1,0 +1,1 @@
+const t={key:"v-2b8987d6",path:"/front/ant-design-pro.html",title:"Ant Design Pro",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648042039e3,contributors:[{name:"pakholam",email:"cerf_baleine@foxmail.com",commits:1}]},filePathRelative:"front/ant-design-pro.md"};export{t as data};

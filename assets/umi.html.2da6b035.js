@@ -1,0 +1,1 @@
+const t={key:"v-5d370307",path:"/front/umi.html",title:"UMI",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648042039e3,contributors:[{name:"pakholam",email:"cerf_baleine@foxmail.com",commits:1}]},filePathRelative:"front/umi.md"};export{t as data};

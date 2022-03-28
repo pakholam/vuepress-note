@@ -1,0 +1,1 @@
+const t={key:"v-45b45889",path:"/front/dva.html",title:"DVA",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648042039e3,contributors:[{name:"pakholam",email:"cerf_baleine@foxmail.com",commits:1}]},filePathRelative:"front/dva.md"};export{t as data};

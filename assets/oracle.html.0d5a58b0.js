@@ -1,0 +1,1 @@
+import{o as e,c as o,b as a,d as r}from"./app.530aa408.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const c={},s={id:"oracle",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#oracle","aria-hidden":"true"},"#",-1),n=r(" Oracle"),d=[_,n];function i(h,l){return e(),o("h1",s,d)}var p=t(c,[["render",i]]);export{p as default};
